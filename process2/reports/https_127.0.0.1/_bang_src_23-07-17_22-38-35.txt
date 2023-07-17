@@ -1,0 +1,24 @@
+# Dirsearch started Mon Jul 17 22:38:42 2023 as: /Library/Frameworks/Python.framework/Versions/3.11/bin/dirsearch -u https://127.0.0.1/bang/src
+
+403  1017B   https://127.0.0.1/bang/src/.ht_wsr.txt
+403  1017B   https://127.0.0.1/bang/src/.htaccess.bak1
+403  1017B   https://127.0.0.1/bang/src/.htaccess.orig
+403  1017B   https://127.0.0.1/bang/src/.htaccess.save
+403  1017B   https://127.0.0.1/bang/src/.htaccess.sample
+403  1017B   https://127.0.0.1/bang/src/.htaccess_sc
+403  1017B   https://127.0.0.1/bang/src/.htaccess_orig
+403  1017B   https://127.0.0.1/bang/src/.htaccessBAK
+403  1017B   https://127.0.0.1/bang/src/.htaccessOLD2
+403  1017B   https://127.0.0.1/bang/src/.htaccess_extra
+403  1017B   https://127.0.0.1/bang/src/.htm
+403  1017B   https://127.0.0.1/bang/src/.html
+403  1017B   https://127.0.0.1/bang/src/.htpasswd_test
+403  1017B   https://127.0.0.1/bang/src/.htpasswds
+403  1017B   https://127.0.0.1/bang/src/.httr-oauth
+403  1017B   https://127.0.0.1/bang/src/.htaccessOLD
+301   241B   https://127.0.0.1/bang/src/ADMIN    -> REDIRECTS TO: https://127.0.0.1/bang/src/ADMIN/
+301   241B   https://127.0.0.1/bang/src/Admin    -> REDIRECTS TO: https://127.0.0.1/bang/src/Admin/
+301   241B   https://127.0.0.1/bang/src/admin    -> REDIRECTS TO: https://127.0.0.1/bang/src/admin/
+302    19B   https://127.0.0.1/bang/src/Admin/    -> REDIRECTS TO: meow.php
+302    19B   https://127.0.0.1/bang/src/admin/    -> REDIRECTS TO: meow.php
+302    19B   https://127.0.0.1/bang/src/admin/index.php    -> REDIRECTS TO: meow.php
